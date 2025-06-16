@@ -1,0 +1,7 @@
+## Local inference ##
+model_name_or_path: path/to/your/model
+# adapter_name_or_path: path/to/your/adapter
+template: default
+#finetuning_type: lora
+infer_backend: huggingface
+temperature: 0.01

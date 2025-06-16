@@ -1,0 +1,29 @@
+## Configuration for predicting ##
+### model
+model_name_or_path: path/to/your/model
+#adapter_name_or_path: path/to/your/adapter
+
+### method
+stage: sft
+do_predict: true
+finetuning_type: lora
+
+### dataset
+eval_dataset: your_eval_dataset
+
+template: default
+cutoff_len: 512
+max_samples: 1000 
+overwrite_cache: true
+preprocessing_num_workers: 16
+temperature: 0.01
+
+### output
+output_dir: saves_dir/of/results
+cache_dir: /data/cache
+overwrite_output_dir: true
+
+### eval
+per_device_eval_batch_size: 32
+predict_with_generate: true
+ddp_timeout: 180000000
