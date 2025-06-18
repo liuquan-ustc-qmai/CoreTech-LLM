@@ -103,6 +103,6 @@ To be added
 
 
 ## Citation
-Liu, Q., Bao, H.F., & Tian, W. (2025). CoreTech-LLM: A LLM focusing on key technologies and International Patent Classification(IPC) Q&A [Software]. GitHub. https://github.com/liuquan-ustc-qmai/CoreTech-LLM
+Quan Liu, Hongfei Bao, Wen Tian. University of Science and Technology China, Qmai Inc (2025). CoreTech-LLM [Software]. GitHub. https://github.com/liuquan-ustc-qmai/CoreTech-LLM
 
 
