@@ -31,7 +31,7 @@ and the general corpus ​​WUDAO​ (Chinese large-scale text dataset).
 ### CPT Data
 | Classification     | Source           | Nums (Entries) | Tokens        |
 |--------------------|------------------|----------------|---------------|
-| General Corpus     | wudao            | 260,000        | 2,350,000,000 |
+| General Corpus     | wudao            | 286,000        | 2,580,000,000 |
 | Specialized Corpus | IPC              | 70,000         | 160,000,000   |
 | Specialized Corpus | Patents          | 500,000        | 5,760,000,000 |
 
