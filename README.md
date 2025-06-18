@@ -46,7 +46,7 @@ and the general corpus ​​WUDAO​ (Chinese large-scale text dataset).
 
 ## Training Pipeline
 
-### Stage 1: Continue Pretraining
+### Stage 1: Continuous Pretraining
 <!-- 基于qwen2.5-7b模型，在精选专利语料（含IPC分类文本、专利说明书等）上进行领域适应训练并使用WuDao通用语料进行通用能力预训练得到CoreTech-LLM-base模型。 -->
 CoreTech-LLM-base is developed through domain-adaptive training on carefully selected patent corpora (including IPC-classified texts and patent specifications) based on the Qwen2.5-7B model, supplemented with WuDao general corpus for general capability pretraining.
 
